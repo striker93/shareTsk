@@ -1,0 +1,12 @@
+$global-font: 'Calibri Light';
+$alt-font: 'Century Gothic';
+$primary-color: #000000;
+$secondary-color: #505050;
+@import '../../node_modules/font-awesome/scss/font-awesome.scss';
+@import '../../node_modules/bootstrap-sass/assets/stylesheets/_bootstrap-sprockets.scss';
+@import '../../node_modules/bootstrap-sass/assets/stylesheets/_bootstrap.scss';
+@import 'vendor/_textAngular.scss';
+@import 'vendor/_mixin.scss';
+@import 'vendor/_bootstrap_extend.scss';
+@import 'partials/_common.scss';
+@import 'modules/_home.scss';
